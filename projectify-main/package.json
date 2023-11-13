@@ -21,9 +21,6 @@
 		"serve-empty-de": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins npx tiddlywiki editions/empty-de-DE/ --listen",
 		"serve-empty-es": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins npx tiddlywiki editions/empty-es-ES/ --listen"
 	},
-	"repository": {
-		"type": "git",
-	},
 	"keywords": [
 		"TiddlyWiki",
 		"TiddlyWiki-Plugin",
