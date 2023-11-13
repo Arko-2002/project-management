@@ -23,7 +23,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/nicolaspetton/projectify.git"
 	},
 	"keywords": [
 		"TiddlyWiki",
@@ -31,12 +30,6 @@
 		"project-management",
 		"todo-list"
 	],
-	"author": "Nicolas Petton",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/nicolaspetton/projectify/issues"
-	},
-	"homepage": "https://github.com/nicolaspetton/projectify#readme",
 	"dependencies": {
 		"tiddlywiki": "^5.1.23"
 	},
