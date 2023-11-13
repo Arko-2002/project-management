@@ -21,22 +21,12 @@
 		"serve-empty-de": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins npx tiddlywiki editions/empty-de-DE/ --listen",
 		"serve-empty-es": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins npx tiddlywiki editions/empty-es-ES/ --listen"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+ssh://git@github.com/nicolaspetton/projectify.git"
-	},
 	"keywords": [
 		"TiddlyWiki",
 		"TiddlyWiki-Plugin",
 		"project-management",
 		"todo-list"
 	],
-	"author": "Nicolas Petton",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/nicolaspetton/projectify/issues"
-	},
-	"homepage": "https://github.com/nicolaspetton/projectify#readme",
 	"dependencies": {
 		"tiddlywiki": "^5.1.23"
 	},
